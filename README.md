@@ -1,7 +1,12 @@
 # TVShowData
 
-Used PyCharm IDE: It may give a window requiring certain configurations to run, allow it to run
+A program using Python Pandas to display data from the csv into a bar graph
 
-Install Pandas: pip3 install pandas
+## Prerequisites
 
-Install MatPlotLib: pip3 install pyplot
+This application requires:
+
+Installation of Pandas: pip3 install pandas
+
+Installation of MatPlotLib: pip3 install matplotlib
+
