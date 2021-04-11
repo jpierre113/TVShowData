@@ -6,9 +6,9 @@ A program using Python Pandas to display data from the csv into a bar graph
 
 This application requires:
 
-Install Pandas: pip3 install pandas
+Pandas: pip3 install pandas
 
-Install MatPlotLib: pip3 install matplotlib
+MatPlotLib: pip3 install matplotlib
 
 ## Installation
 - Clone repository to directory of your choice in terminal
